@@ -1,8 +1,8 @@
 # Hello (Next.js)
 
-Simple Next.js app that displays "Hello World".
+A simple Next.js app that displays "Hello World".
 
-Run locally:
+## Run locally
 
 ```bash
 cd /Users/collinkhosla/Documents/GitHub/Hello
@@ -11,4 +11,3 @@ npm run dev
 ```
 
 Open http://localhost:3000
-# Hello
